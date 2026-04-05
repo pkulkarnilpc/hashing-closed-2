@@ -1,4 +1,4 @@
-# 🧪 Week 11 Wed Lab: Exploring Probing Techniques in Closed Hash Tables
+# 🧪 Exploring Probing Techniques in Closed Hash Tables
 
 ## 🎯 Objective
 This lab demonstrates how **different probing techniques** affect the performance of hash tables that use **closed hashing (open addressing)**.  
